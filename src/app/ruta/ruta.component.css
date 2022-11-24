@@ -1,3 +1,8 @@
 .fila--principal{
-    height: 78vh;
+    width: 100vw;
+    height: 80vh;
+}
+
+.item__lista:hover{
+    cursor: pointer;
 }

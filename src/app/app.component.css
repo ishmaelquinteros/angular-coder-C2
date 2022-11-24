@@ -1,4 +1,10 @@
 .fila--encabezado{
-    background-color:lightskyblue;
+    background-color:dimgray;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.caja--cabecera{
+    background: url(../assets/Montana2.jpg) no-repeat center / cover;
+    background-size: auto;
+    height: 100px;
+    width: 100%;
 }
